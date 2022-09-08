@@ -10,24 +10,4 @@ class Car :
         return self.battery.needs_service or self.engine.needs_service
     
 
-class factory : 
-    def __init__(self) -> None:
-        pass
-
-    def create_calliope()-> Car:
-        return Car()
-
-    def create_calliope()-> Car:
-        return Car()
-    
-    def create_calliope()-> Car:
-        return Car()
-    
-
-    def create_calliope()-> Car:
-        return Car()
-
-    
-    def create_calliope()-> Car:
-        return Car()
     
